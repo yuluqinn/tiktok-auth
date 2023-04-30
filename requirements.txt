@@ -3,6 +3,7 @@ Werkzeug==2.1.2
 
 # Runtime dependencies
 Flask==2.1.2
+tiktok-api
 redis==4.5.3
 python-dotenv==0.20.0
 
